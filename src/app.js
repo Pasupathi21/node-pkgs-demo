@@ -1,4 +1,4 @@
-const { CronJob } = require('cron')
+import { CronJob } from 'cron'
 
 /**
  * field          allowed values
